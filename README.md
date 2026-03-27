@@ -73,7 +73,7 @@ Unified transaction monitoring, PEP/sanctions screening, and adverse media into 
 
 `70% false positive reduction` `60% faster resolution` `Neo4j entity graph` `Explainable AI outputs`
 
-[Architecture Reference](./architectures/02-aml-hybrid-detection.md)
+[Architecture Reference](./architectures/blob/main/02-aml-hybrid-detection.md)
 
 ---
 
@@ -92,7 +92,7 @@ Multi-agent onboarding system for private banking. LangGraph orchestration, RAG-
 
 `LangGraph` `LlamaIndex` `FastAPI` `GCP` `Pinecone`
 
-[Architecture Reference](./architectures/01-iCLM-agentic-onboarding.md)
+[Architecture Reference](./architectures/blob/main/01-iCLM-agentic-onboarding.md)
 
 ---
 
@@ -101,7 +101,7 @@ Multi-agent onboarding system for private banking. LangGraph orchestration, RAG-
 
 `£1.2M annual savings` `Azure AKS + Event Grid` `DDD bounded contexts` `FCA / GDPR compliant`
 
-[Architecture Reference](./architectures/03-pkyc-event-driven-platform.md)
+[Architecture Reference](./architectures/blob/main/03-pkyc-event-driven-platform.md)
 
 </td>
 </tr>
